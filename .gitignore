@@ -1,0 +1,25 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.lnp
+*.dep
+*.htm
+*.hex
+*.bin
+
+# 本机配置与临时文件
+*.uvoptx
+*.uvguix.*
+*.bak
+*.tmp
+*.log
+JLinkLog.txt
+.DS_Store
+Thumbs.db
+.vscode/
